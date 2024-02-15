@@ -1,0 +1,13 @@
+.solid{
+    border:solid;
+    font-size: medium;
+    font-style: italic;
+    font-width:500;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+
+.solid:hover{
+    color:green;
+}
